@@ -1,0 +1,12 @@
+*{
+    background-color:cornsilk;
+}
+
+#val1 , body , #val2, #result {
+    text-transform: capitalize;
+    font-size: large;
+}
+
+#op {
+    color: blue;
+}
