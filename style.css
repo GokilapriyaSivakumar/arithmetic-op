@@ -1,5 +1,5 @@
 *{
-    background-color:none;
+    background-color:white;
 }
 
 #val1 , body , #val2, #result {
@@ -8,5 +8,10 @@
 }
 
 #op {
-    color: blue;
+    color: black;
+    box-sizing: border-box;
+    width: 20vh;
+    max-height: fit-content;
+    border-radius: 0%;
+    background-color:azure;
 }
